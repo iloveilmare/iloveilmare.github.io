@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: HelloWorld
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+title: sangmook on software
+subtitle: "A weblog by sangmook, a programmer working in Seungnam City, about software and lifehack."
 email: tech4human.ksm@gmail.com
 name: iloveilmare
 description: >
