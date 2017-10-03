@@ -7,14 +7,18 @@ gems:
 
 exclude:
   - "/vendor/"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "LICENSE.md"
+  - "README.md"
+  - "circle.yml"
 
 # Site settings
 title: sangmook on software
 subtitle: "A weblog by sangmook, a programmer working in Seungnam City, about software and lifehack."
 email: tech4human.ksm@gmail.com
 name: iloveilmare
-description: >
-  A simple yet classy theme for your Jekyll website or blog.
+description: sangmook on software
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -41,18 +45,18 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-# disqus_shortname: bencentra
+disqus_shortname: sangmook-on-software
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+  - cat: software
+    desc: "android, java, kotlin, etc.."
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: lifehack
+    desc: "programs, devices, ideas for personal use"
 
 # Social icons and sharing options
 #

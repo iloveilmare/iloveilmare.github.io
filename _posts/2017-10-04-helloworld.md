@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Dummy Post 4"
-date:   2015-04-18 08:43:59
-author: Ben Centra
-categories: Dummy
-tags: ipsum
+title:  helloworld
+date:   "2017-10-04 05:10:59"
+author: sangmook
+categories: lifehack
+tag: groovy
+cover:  "/assets/instacode.png"
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
