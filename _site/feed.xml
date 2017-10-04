@@ -5,9 +5,31 @@
     <description>sangmook on software</description>
     <link>http://iloveilmare.github.io/</link>
     <atom:link href="http://iloveilmare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Oct 2017 09:36:11 +0900</pubDate>
-    <lastBuildDate>Wed, 04 Oct 2017 09:36:11 +0900</lastBuildDate>
+    <pubDate>Wed, 04 Oct 2017 22:25:31 +0900</pubDate>
+    <lastBuildDate>Wed, 04 Oct 2017 22:25:31 +0900</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>helloworld2</title>
+        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Oct 2017 22:10:59 +0900</pubDate>
+        <link>http://iloveilmare.github.io/software/2017/10/04/helloworld2.html</link>
+        <guid isPermaLink="true">http://iloveilmare.github.io/software/2017/10/04/helloworld2.html</guid>
+        
+        <category>android</category>
+        
+        
+        <category>software</category>
+        
+      </item>
     
       <item>
         <title>helloworld</title>
