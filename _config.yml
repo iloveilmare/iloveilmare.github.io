@@ -52,10 +52,10 @@ disqus_shortname: sangmook-on-software
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: software
+  - cat: Software
     desc: "android, java, kotlin, etc.."
 
-  - cat: lifehack
+  - cat: Lifehack
     desc: "programs, devices, ideas for personal use"
 
 # Social icons and sharing options
