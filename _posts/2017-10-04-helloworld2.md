@@ -3,7 +3,7 @@ layout: post
 title:  helloworld2
 date:   "2017-10-04 22:10:59"
 author: sangmook
-categories: software
+categories: Software
 tag: android
 cover:  "/assets/instacode.png"
 ---

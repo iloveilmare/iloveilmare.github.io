@@ -3,7 +3,7 @@ layout: post
 title:  helloworld
 date:   "2017-10-04 05:10:59"
 author: sangmook
-categories: lifehack
+categories: Lifehack
 tag: groovy
 cover:  "/assets/instacode.png"
 ---
