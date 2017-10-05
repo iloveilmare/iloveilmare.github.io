@@ -7,11 +7,11 @@ gems:
 
 exclude:
   - "/vendor/"
-  # - "Gemfile"
-  # - "Gemfile.lock"
-  # - "LICENSE.md"
-  # - "README.md"
-  # - "circle.yml"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "LICENSE.md"
+  - "README.md"
+  - "circle.yml"
 
 # Site settings
 title: sangmook on software
